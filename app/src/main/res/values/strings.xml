@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HeeHanXiang_Tut3</string>
+    <string name="activity1">GO TO COMPOSITE PLOT</string>
+
+    <string name="btn_go_back_to_calling_activity">Go Back to Calling Activity</string>
+    <string name="tv_freq">Frequency </string>
+    <string name="tv_phase">Phase (Degree) </string>
+    <string name="tv_amp">Amplitude </string>
+    <string name="cos">Cosine </string>
+    <string name="sin">Sine </string>
+
+</resources>
